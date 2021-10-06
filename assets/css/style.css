@@ -88,22 +88,23 @@ header {
 .margin-right{
     margin-right:25px ;
 }
-.footer{
+footer{
         
         background: #362b2b0d;
         height: 60px;
 }
 .box {
-    max-width: 1000px;
-    width: 100%;
+
+
     margin: 0 auto;
+    float: left;
 }
 .box-one{
     width: 100px;
     height: 60px;
     background-color: rgb(204, 59, 43);
     float: left;
-    margin: 4px;
+    margin: 2px 5px;
 }
 .box-two{
     width: 100px;
@@ -132,5 +133,17 @@ header {
     background-color: rgb(204, 59, 43);
     float: left;
     margin: 2px 5px;
+}
+img{
+    max-width: 100%;
+}
+
+.marks{
+    float: right;
+}
+.marks img{
+width: 50px;
+height: 50px;
+      
 }
 
