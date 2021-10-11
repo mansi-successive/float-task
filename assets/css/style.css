@@ -98,6 +98,8 @@ footer{
         
         background: #362b2b0d;
         height: 60px;
+        padding:12px auto;
+        width: 100%;
 }
 
 .box {
